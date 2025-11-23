@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: #fff;
+    padding: 20px;
+}
+form input, form button{
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+form button{
+    background: rgb(230, 54, 0);
+    color: #fff;
+    cursor: pointer;
+}
+img{
+    border-radius: 5px;
+    margin: 5px 0;
+}
